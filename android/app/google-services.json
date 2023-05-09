@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866513833338",
+    "project_id": "lp-gas-analyzer",
+    "storage_bucket": "lp-gas-analyzer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866513833338:android:f73e73a993479e3a409ac3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866513833338-rlm11srju6pfahmniitv953j7h1rr3jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqQw8YYVKkusIkpf8tp0dLWQbiDTqZw0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866513833338-rlm11srju6pfahmniitv953j7h1rr3jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
